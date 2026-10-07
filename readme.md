@@ -18,4 +18,6 @@ No | Method | Year | Venue | Title| Link|
 14|MMRIP|2025|Expert Systems with Applications|Incorporating estimated depth maps and multi-modal pretraining to improve salient object detection in optical remote sensing images|https://www.sciencedirect.com/science/article/abs/pii/S0957417425032397?casa_token=haq4evi24o4AAAAA:a8O9CYP4VLcOLB4Ubk2vAtBjTo4Fqv24t_X3Dfwaxewms2lFvwuzdHdyTW4y37p8fUlEkh1-6_U|
 15|AGSS|2025|IEEE Transactions on Intelligent Transportation Systems|Adapting Generic RGB-D Salient Object Detection for Specific Traffic Scenarios|https://ieeexplore.ieee.org/abstract/document/10952378?casa_token=aPP0AhmoVTYAAAAA:9ZH3bBuwq6wAxvD_8WhHheVLu7g6tLiQ1ec42tNO8Mnov9abTslympZFqYzzsYwBIkG57SJw2kw|
 16| UDF-Net|2025|Expert Systems with Applications|Detecting underwater salient objects via self-supervised depth priors and task-driven optimization|https://www.sciencedirect.com/science/article/abs/pii/S0957417425044884|
-
+17|FasterSal|2025| IEEE Transactions on Multimedia|FasterSal: Robust and Real-Time Single-Stream Architecture for RGB-D Salient Object Detection|https://ieeexplore.ieee.org/abstract/document/10814716|
+18|TA|2024|Neurocomputing|Synergizing triple attention with depth quality for RGB-D salient object detection|https://www.sciencedirect.com/science/article/pii/S0925231224004430|
+19|CorrNet|2024|Pattern Recognition|Incomplete RGB-D salient object detection: Conceal, correlate and fuse|https://www.sciencedirect.com/science/article/pii/S0031320324004515|
