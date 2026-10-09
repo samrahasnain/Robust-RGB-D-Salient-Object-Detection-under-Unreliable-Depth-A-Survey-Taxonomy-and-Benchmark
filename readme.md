@@ -40,4 +40,8 @@ No | Method | Year | Venue | Title| Link|
 36|PCFNet|2024|Journal of Visual Communication and Image Representation|Progressive cross-level fusion network for RGB-D salient object detection|https://www.sciencedirect.com/science/article/pii/S1047320324002244?casa_token=4ZIiGC3s0ZsAAAAA:5do500aqenn6UkL7y9Ip5gGVQ8gndI1MAR3o-j9dIozwQPg_-CFxPrL4_tcMtleyXym2pAGzHLw|
 37|MSNet|2024| IEEE Transactions on Automation Science and Engineering|MSNet: Multiple Strategy Network With Bidirectional Fusion for Detecting Salient Objects in RGB-D Images|https://ieeexplore.ieee.org/abstract/document/10555563?casa_token=fljo7c12bMkAAAAA:uezGf0ZlWUKl5brPoFezI45c5OvSUeesc-n0ssQ-zVlWL3YiwXMU4m1We69VVtxS9P3z9xXJHy0|
 38|DCMT|2024|IEEE Transactions on Image Processing|Disentangled Cross-Modal Transformer for RGB-D Salient Object Detection and Beyond|https://ieeexplore.ieee.org/abstract/document/10436554|
-39|
+39|FI2CM|2024|Journal of Intelligent & Fuzzy Systems: Applications in Engineering and Technology|Feature interaction and two-stage cross-modal fusion for RGB-D salient object detection|https://journals.sagepub.com/doi/abs/10.3233/JIFS-233225|
+40|CSNet|2024|The Visual Computer|CSNet: a ConvNeXt-based Siamese network for RGB-D salient object detection|https://link.springer.com/article/10.1007/s00371-023-02887-x|
+41|CIA-NEt|2024| Artificial Neural Networks and Machine Learning – ICANN 2024|CIA-Net: Cross-Modal Interaction and Depth Quality-Aware Network for RGB-D Salient Object Detection|https://link.springer.com/chapter/10.1007/978-3-031-72335-3_6|
+42|AGFNet|2024| Signal, Image and Video Processing |An adaptive guidance fusion network for RGB-D salient object detection|https://link.springer.com/article/10.1007/s11760-023-02775-w|
+43|
